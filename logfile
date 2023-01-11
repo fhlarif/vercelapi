@@ -1,0 +1,10 @@
+2022-12-07 22:19:02.327 +08 [10900] LOG:  starting PostgreSQL 15.1, compiled by Visual C++ build 1914, 64-bit
+2022-12-07 22:19:02.333 +08 [10900] LOG:  could not bind IPv6 address "::1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2022-12-07 22:19:02.333 +08 [10900] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2022-12-07 22:19:02.334 +08 [10900] LOG:  could not bind IPv4 address "127.0.0.1": Only one usage of each socket address (protocol/network address/port) is normally permitted.
+	
+2022-12-07 22:19:02.334 +08 [10900] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2022-12-07 22:19:02.334 +08 [10900] WARNING:  could not create listen socket for "localhost"
+2022-12-07 22:19:02.334 +08 [10900] FATAL:  could not create any TCP/IP sockets
+2022-12-07 22:19:02.336 +08 [10900] LOG:  database system is shut down
